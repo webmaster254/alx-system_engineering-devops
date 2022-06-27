@@ -1,3 +1,3 @@
-## Devops
+# ALX SOFTWARE ENGINEERING AND DEVOPS 
 
-## Shell basics commands
+### This repository contain projects for software engineering and devops

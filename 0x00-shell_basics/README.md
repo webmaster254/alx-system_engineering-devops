@@ -16,13 +16,13 @@ Long format
 with user and group IDs displayed numerically
 And hidden files (starting with .)
 
-[6-firstdirectory](./6-firstdirectory) - Create a script that creates a directory named holberton in the /tmp/ directory.
+[6-firstdirectory](./6-firstdirectory) - Create a script that creates a directory named my_first_directory  in the /tmp/ directory.
 
-[7-movethatfile](./7-movethatfile) - Move the file betty from /tmp/ to /tmp/holberton.
+[7-movethatfile](./7-movethatfile) - Move the file betty from /tmp/ to /tmp/my_first_directory .
 
 [8-firstdelete](./8-firstdelete) - Delete the file betty. The file betty is in /tmp/holberton
 
-[9-firstdirdeletion](./9-firstdirdeletion) - Delete the directory holberton that is in the /tmp directory.
+[9-firstdirdeletion](./9-firstdirdeletion) - Delete the directory my_first_directory  that is in the /tmp directory.
 
 [10-back](./10-back) - Write a script that changes the working directory to the previous one.
 
@@ -38,7 +38,7 @@ And hidden files (starting with .)
 
 [16-clean_emacs](./101-clean_emacs) - Create a script that deletes all files in the current working directory that end with the character ~.
 
-[17-tree](./102-tree) - Create a script that creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory. You are only allowed to use two spaces in your script, not more.
+[17-tree](./102-tree) - Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory. You are only allowed to use two spaces in your script, not more.
 
 [18-commas](./103-commas) - Write a command that lists all the files and directories of the current directory, separated by commas (,).
 
