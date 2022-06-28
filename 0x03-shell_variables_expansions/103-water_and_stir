@@ -1,0 +1,1 @@
+printf "%o\n" $((5#$(echo $WATER | tr 'water'
