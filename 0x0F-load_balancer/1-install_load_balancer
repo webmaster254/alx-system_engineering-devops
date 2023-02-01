@@ -30,7 +30,7 @@ frontend http
 backend servers
   balance roundrobin
   server 82001-web-01 18.209.179.30:80 check
-   server 82001-web-02 100.26.232.3:80 check
+  server 82001-web-02 100.26.232.3:80 check
 " | sudo tee /etc/haproxy/haproxy.cfg
 
 # Start HAproxy
